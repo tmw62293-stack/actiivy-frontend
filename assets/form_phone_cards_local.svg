@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="680" viewBox="0 0 800 680" role="img" aria-label="Actiivy visual">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7faf9"/><stop offset="1" stop-color="#e7f4ee"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c8457"/><stop offset="1" stop-color="#004d3d"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#003b2f" flood-opacity=".18"/></filter>
+</defs>
+<rect width="800" height="680" rx="28" fill="url(#bg)"/>
+
+<circle cx="650" cy="125" r="70" fill="#c8f2db" opacity=".75"/><circle cx="130" cy="550" r="95" fill="#dcefe8"/>
+<rect x="270" y="58" width="265" height="565" rx="38" fill="#092f2a" filter="url(#shadow)"/>
+<rect x="285" y="82" width="235" height="505" rx="25" fill="#f7fffb"/>
+<rect x="320" y="118" width="165" height="18" rx="9" fill="#0c8457" opacity=".25"/><rect x="320" y="153" width="105" height="12" rx="6" fill="#d2e7df"/>
+<g transform="translate(324 208) rotate(-8)"><rect width="150" height="92" rx="15" fill="#113d86"/><text x="18" y="38" fill="white" font-family="Arial" font-size="20" font-weight="700">AMAZON</text><circle cx="123" cy="68" r="12" fill="#f6bf3c"/><path d="M25 70h65" stroke="#d3e9ff" stroke-width="5" stroke-linecap="round"/></g>
+<g transform="translate(318 330) rotate(7)"><rect width="150" height="92" rx="15" fill="#ef7d27"/><text x="18" y="39" fill="white" font-family="Arial" font-size="20" font-weight="700">NIKE</text><path d="M22 68c45 18 68-22 108-30-20 40-72 55-108 30z" fill="#fff" opacity=".9"/></g>
+<g transform="translate(334 456) rotate(-4)"><rect width="150" height="92" rx="15" fill="#392d83"/><text x="18" y="39" fill="white" font-family="Arial" font-size="18" font-weight="700">STEAM</text><circle cx="120" cy="65" r="16" fill="none" stroke="#9de4c0" stroke-width="5"/><circle cx="120" cy="65" r="5" fill="#9de4c0"/></g>
+<path d="M135 260l37 37m-37-37l-29 29" stroke="#0c8457" stroke-width="10" stroke-linecap="round"/><circle cx="135" cy="260" r="22" fill="#0c8457"/><path d="M125 260l8 8 16-18" fill="none" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="78" y="475" fill="#0c8457" font-family="Arial" font-size="28" font-weight="700">Secure review</text><text x="78" y="512" fill="#446c62" font-family="Arial" font-size="20">Fast, simple, protected</text>
+
+</svg>
